@@ -2,8 +2,7 @@ import os
 
 from pyrogram import filters
 from telegraph import upload_file
-
-from Ankivector import pbot as app
+from DaisyX import pbot as app
 
 
 @app.on_message(filters.command("telegraph"))
@@ -45,3 +44,10 @@ async def telegraph(client, message):
         )
     finally:
         os.remove(download_location)
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
