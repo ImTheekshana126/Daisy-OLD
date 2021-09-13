@@ -86,7 +86,7 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/ca1758619f93089bcc747.jpg)
+*Main Commands :* 🤖
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
