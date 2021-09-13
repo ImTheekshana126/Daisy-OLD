@@ -69,7 +69,7 @@ Hey there! My name is *Lisa*, I help you manage your group in an efficient way!
 buttons = [
     [
         InlineKeyboardButton(text=" 💫INFO ", callback_data="aboutmanu_"),
-        InlineKeyboardButton(text="❓ Help & Commands ", callback_data="help_back"),
+        InlineKeyboardButton(text="❓Commands ", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(text="👥Support", url="t.me/Theekshana_Support"),
