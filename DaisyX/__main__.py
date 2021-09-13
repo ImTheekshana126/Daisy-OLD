@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hey there! My name is Lisa, I help you manage your group in an efficient way! 
+Hey there! My name is *Lisa*, I help you manage your group in an efficient way! 
 """
 
 buttons = [
