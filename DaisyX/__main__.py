@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hey there! My name is [Lisa](https://telegra.ph/file/ca1758619f93089bcc747.jpg).
+Hey there! My name is Lisa.
 I am an Anime themed group management bot.
 Built by weebs for weebs, I specialize in managing anime eccentric communities! 
 """
@@ -75,11 +75,11 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="👥Support", url="t.me/Theekshana_Support"),
-        InlineKeyboardButton(text="🔔 Updates", url="t.me/Theekshana_Official"),
+        InlineKeyboardButton(text="📡Updates", url="t.me/Theekshana_Official"),
     ],
     [
         InlineKeyboardButton(
-            text="➕Add Lisa to your group➕ ", url="t.me/daisyXBot?startgroup=true"
+            text="🎉Add Lisa to your group ", url="t.me/daisyXBot?startgroup=true"
         ),
     ],
 ]
