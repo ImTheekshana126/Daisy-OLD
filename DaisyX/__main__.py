@@ -63,9 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hey there! My name is Lisa.
-I am an Anime themed group management bot.
-Built by weebs for weebs, I specialize in managing anime eccentric communities! 
+Hey there! My name is Lisa, I help you manage your group in an efficient way! 
 """
 
 buttons = [
