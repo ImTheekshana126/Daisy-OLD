@@ -63,13 +63,13 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hey there! My name is *Lisa*, I help you manage your group in an efficient way! 
+Hey there! My name is *Mizu*, I help you manage your group in an efficient way! 
 """
 
 buttons = [
     [
-        InlineKeyboardButton(text=" 💫INFO ", callback_data="aboutmanu_"),
-        InlineKeyboardButton(text="❓Commands ", callback_data="help_back"),
+        InlineKeyboardButton(text=" INFO ", callback_data="aboutmanu_"),
+        InlineKeyboardButton(text="Commands ", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(text="👥Support", url="t.me/Theekshana_Support"),
@@ -77,7 +77,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🎉Add Lisa to your group ", url="t.me/TheLisa_Bot?startgroup=true"
+            text="🎉Add Mizu to your group ", url="t.me/TheMizuBot?startgroup=true"
         ),
     ],
 ]
